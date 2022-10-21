@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ZHENG YJ\'s Wonderful House',
-  domain: 'https://www.notion.so/jiejie-4dc565052bac4cafbea2fb2b33a0e8a3',
+  domain: 'https://expensive-maize-733.notion.site/jiejie-4dc565052bac4cafbea2fb2b33a0e8a3',
   author: 'ZHENG YJ',
 
   // open graph metadata (optional)
